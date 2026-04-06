@@ -1,8 +1,7 @@
-# Student-Performance-Exploratory-Dashboard
+# Student-Performance-Exploratory-Sql-Excel-Dashboard
 It explains a school academic record and decline and the proficiency in use of tools like SQL and Excel
 
 
-# Student Performance Analysis – SQL Project
 
 ## **SQL Data Analysis Project by Uchechi Esther Nwaoha**
 
@@ -12,13 +11,15 @@ It explains a school academic record and decline and the proficiency in use of t
 
 ## 📘 Project Overview
 
-What if everything we assume about student performance is wrong?
+As humans, we have different belief and assumptions. However, What if everything we assume about student performance is wrong?
 
-We tend to believe **English is easier to ace** than Mathematics. We assume **older students (Grade 12) are more disciplined** with attendance. And we rarely question whether **extracurricular activities help or hurt** academic outcomes.
+Most people tend to believe that **English is easier to ace** than Mathematics due to it many complex calculations and formulas. We assume **older students (Grade 12) are more disciplined and academically smart** with school works and attendance but we rarely question if **extracurricular activities help or hurt** academic outcomes.
 
-This SQL project tested those assumptions — and the results were surprising.
+This **Student Performance Exploratory Project** is a comprehensive SQL-driven analytics of academic performance, attendance patterns, and extracurricular participation. This project demonstrates advanced SQL capabilities from basic aggregations to complex subqueries to uncover actionable insights for school administrators, teachers, and policymakers.
 
-Using a database of **250 students** across Grades 9–12, I analyzed **academic scores, attendance patterns, and extracurricular participation** to uncover what really drives student success. The findings challenge common beliefs and provide actionable recommendations for school administrators.
+Using a database of **250 students** across Grades 9–12,This SQL project tested assumptions and the outcoming were overwhelming. I analyzed **academic scores, attendance patterns, and extracurricular participation** to uncover what really drives student success. The findings challenge common beliefs and provide actionable recommendations for school administrators.
+
+
 
 ---
 
