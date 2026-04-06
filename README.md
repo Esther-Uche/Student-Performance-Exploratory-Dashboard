@@ -57,7 +57,7 @@ The analysis is built on a relational database with four tables:
 | Science | 69.83 |
 | English | 69.82 |
 
-> **Many believes that:** English is easier to assimilate and score high in.
+> Many believes that English is easier to assimilate and less complex than any science related course. Since English involves indepth reading, understanding and also written in language we can understand, people assume its more simple to get a high score.
 > **The data says:** Math had the **highest average score** across all students.
 
 This objects our thought on subject difficulty. Are our teaching methods in English less effective? Is English more difficult to assimilate? Or are students simply more confident in Math? Either way, this is a conversation starter for the academic board.
