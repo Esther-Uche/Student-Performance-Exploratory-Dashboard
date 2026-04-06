@@ -57,10 +57,10 @@ The analysis is built on a relational database with four tables:
 | Science | 69.83 |
 | English | 69.82 |
 
-> **Conventional wisdom says:** English is easier to score high in.
+> **Many believes that:** English is easier to assimilate and score high in.
 > **The data says:** Math had the **highest average score** across all students.
 
-This challenges how we think about subject difficulty. Are our teaching methods in English less effective? Or are students simply more confident in Math? Either way, this is a conversation starter for the academic board.
+This objects our thought on subject difficulty. Are our teaching methods in English less effective? Is English more difficult to assimilate? Or are students simply more confident in Math? Either way, this is a conversation starter for the academic board.
 
 ---
 
@@ -70,7 +70,7 @@ This challenges how we think about subject difficulty. Are our teaching methods 
 |-------------|--------------------|
 | Grade 10 | 81% |
 | Grade 11 | 80% |
-| Grade 12 | **79%** |
+| Grade 12 | **78%** |
 | Grade 9 | 70% |
 
 > **What you'd expect:** Grade 12 students, being oldest and most mature, would have the best attendance.
@@ -111,11 +111,3 @@ This doesn't mean Sports *causes* better attendance — but it's a strong correl
 
 ---
 
-### 5. 🏆 Top Performers & Scholarship Candidates
-
-```sql
--- Top 5 students with highest average scores
-SELECT student_id, AVG(score) AS highest_avg_score
-FROM scores
-GROUP BY student_id
-ORDER BY highest_avg_score DESC LIMIT 5;
