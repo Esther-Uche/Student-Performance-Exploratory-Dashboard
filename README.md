@@ -25,10 +25,12 @@ Using a database of **250 students** across Grades 9–12,This SQL project teste
 
 ## 🎯 Objectives
 
-- **Challenge Assumptions:** Test whether common beliefs about student performance hold up against data
-- **Identify At-Risk Groups:** Pinpoint grade levels and study groups needing intervention
-- **Recognize Excellence:** Surface top performers for scholarships and awards
-- **Support Strategy:** Provide data-backed recommendations for attendance improvement
+- **Contest Established Beliefs:** Evaluate if common beliefs about student performance hold up against data
+- **Identify At-Risk Groups:** Carefully select grade levels and study groups with attendance challange and provide timely assistance.
+- **Acknowledging Excellence:** Recognize top performing students across all subjects and make them placeable for scholarships and awards
+- **Backup Tactics:** Establish data-backed advice for attendance improvement, intervention and awards.
+- **Extracurricular Influence:** Understand and explain how activities like Sports and Music can affect academic outcomes.
+
 
 ---
 
