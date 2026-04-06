@@ -41,7 +41,7 @@ The analysis is built on a relational database with four tables:
 | Table | Description |
 |-------|-------------|
 | `students` | Demographics, grade level, study group, gender (250 students) |
-| `scores` | Subject scores: Math, Science, English per student |
+| `scores` | Subject scores: Math, Science, and English per student |
 | `attendance` | Daily attendance percentage per student |
 | `extracurricular` | Activity participation (Sports, Music, etc.) |
 
