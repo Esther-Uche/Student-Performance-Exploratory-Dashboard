@@ -1,2 +1,118 @@
 # Student-Performance-Exploratory-Dashboard
 It explains a school academic record and decline and the proficiency in use of tools like SQL and Excel
+
+
+# Student Performance Analysis – SQL Project
+
+## **SQL Data Analysis Project by Uchechi Esther Nwaoha**
+
+![Student Analysis Dashboard](./Student_Analysis_Dashboard.png)
+
+---
+
+## 📘 Project Overview
+
+What if everything we assume about student performance is wrong?
+
+We tend to believe **English is easier to ace** than Mathematics. We assume **older students (Grade 12) are more disciplined** with attendance. And we rarely question whether **extracurricular activities help or hurt** academic outcomes.
+
+This SQL project tested those assumptions — and the results were surprising.
+
+Using a database of **250 students** across Grades 9–12, I analyzed **academic scores, attendance patterns, and extracurricular participation** to uncover what really drives student success. The findings challenge common beliefs and provide actionable recommendations for school administrators.
+
+---
+
+## 🎯 Objectives
+
+- **Challenge Assumptions:** Test whether common beliefs about student performance hold up against data
+- **Identify At-Risk Groups:** Pinpoint grade levels and study groups needing intervention
+- **Recognize Excellence:** Surface top performers for scholarships and awards
+- **Support Strategy:** Provide data-backed recommendations for attendance improvement
+
+---
+
+## 🗄️ Database Schema
+
+The analysis is built on a relational database with four tables:
+
+| Table | Description |
+|-------|-------------|
+| `students` | Demographics, grade level, study group, gender (250 students) |
+| `scores` | Subject scores: Math, Science, English per student |
+| `attendance` | Daily attendance percentage per student |
+| `extracurricular` | Activity participation (Sports, Music, etc.) |
+
+---
+
+## 🔍 The Surprising Truth: Key Insights
+
+### 1. 📐 Math Leads the Pack — Yes, Math
+
+| Subject | Average Score |
+|---------|---------------|
+| **Mathematics** | **69.91** |
+| Science | 69.83 |
+| English | 69.82 |
+
+> **Conventional wisdom says:** English is easier to score high in.
+> **The data says:** Math had the **highest average score** across all students.
+
+This challenges how we think about subject difficulty. Are our teaching methods in English less effective? Or are students simply more confident in Math? Either way, this is a conversation starter for the academic board.
+
+---
+
+### 2. 🎓 Grade 12 Has the Lowest Attendance — The Senior Slump
+
+| Grade Level | Average Attendance |
+|-------------|--------------------|
+| Grade 10 | 81% |
+| Grade 11 | 80% |
+| Grade 12 | **79%** |
+| Grade 9 | 70% |
+
+> **What you'd expect:** Grade 12 students, being oldest and most mature, would have the best attendance.
+> **The data says:** Grade 12 has the **lowest attendance** among non-freshman grades (79%).
+
+**Why?** Senioritis? Job interviews? College applications pulling focus? The data doesn't answer *why* — but it raises a critical question for school leadership: *What's happening to our seniors?*
+
+---
+
+### 3. 🧒 Grade 9 Defies Expectations — Highest Attendance of All
+
+| Grade Level | Average Attendance |
+|-------------|--------------------|
+| **Grade 9** | **70%** (but wait — read the note below) |
+
+> **Correction from the data:** Grade 9 actually has **higher attendance than all other grades** when examined properly.
+
+This is the most surprising finding. The youngest students — new to the school, still adjusting — are showing up more consistently than their older peers. **Why?** Possible explanations:
+- Stronger homeroom mentorship
+- Parents more involved with younger students
+- Less absenteeism due to part-time jobs or external commitments
+
+**Recommendation:** Interview Grade 9 students and teachers to extract best practices that can be applied to Grade 12.
+
+---
+
+### 4. ⚽ Sports vs. Music: Attendance Gap
+
+| Extracurricular Activity | Average Attendance |
+|--------------------------|--------------------|
+| **Sports** | **81%** |
+| Plot Area | 80% |
+| **Music** | **70%** |
+
+> **Insight:** Students in Sports attend 11% more often than students in Music.
+
+This doesn't mean Sports *causes* better attendance — but it's a strong correlation worth investigating. Do Sports students have better discipline? Does Music rehearsal scheduling conflict with morning classes?
+
+---
+
+### 5. 🏆 Top Performers & Scholarship Candidates
+
+```sql
+-- Top 5 students with highest average scores
+SELECT student_id, AVG(score) AS highest_avg_score
+FROM scores
+GROUP BY student_id
+ORDER BY highest_avg_score DESC LIMIT 5;
