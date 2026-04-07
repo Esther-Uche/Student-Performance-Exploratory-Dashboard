@@ -39,10 +39,12 @@ The analysis is built on a relational database with four tables:
 
 | Table | Description |
 |-------|-------------|
-| `students` | Demographics, grade level, study group, gender (250 students) |
-| `scores` | Subject scores: Math, Science, and English per student |
-| `attendance` | Daily attendance percentage per student |
+| `students` | Demographic info, (grade level, study group, gender (250 students)) |
+| `scores` | Subject specific performance: Math, Science, and English per student |
+| `attendance` |Term/Daily attendance percentage per student |
 | `extracurricular` | Activity participation (Sports, Music, etc.) |
+
+
 
 ---
 
@@ -118,7 +120,7 @@ This is the most surprising finding. The youngest students — new to the school
 This doesn't mean Music limits attendance but it's a strong correlation worth investigating as to why Sports students have better attendance. Is it discipline? Does Music rehearsal scheduling conflict with morning classes? Does Music concert and sessions limit attendance?
 
 
-🛠 **Technical Stack**
+### 🛠 Technical Stack
 **Database**: MySQL
 
 **Language**: SQL (Joins, CTEs, Subqueries, Aggregate Functions)
