@@ -137,13 +137,9 @@ This doesn't mean Music limits attendance but it's a strong correlation worth in
 ### 💡 Recommendations
 Based on the data analysis:
 
-Attendance Bonus: Students in "Group C" show higher attendance; the school should examine their method of  study and introduce them in "Group A."
+Attendance Bonus: Students in "Group C" show higher attendance; the school should examine their method of  study and introduce them in "Group A". Also, since students with >90% attendance controls the high-score category, introduce a system that rewards individuals with perfect attendance.
 
-Math Support: Grade 12 students showing a decline in Math scores relative to the school average should be given targeted weekend workshops and extra lessons.
+Math Support and Grade 12 aid : From the data, it's evident that Grade 12 students are lagging in the school's average attendance thus, solutions should be provided for those showing a decline in Math scores like targeted weekend workshops, extra lessons or a dedicated counselor.
 
 Balanced Lifestyle: The data suggests a relationship between sports participation and consistent attendance; increasing financial assistance for the gymnastic department may improve overall school presence.
-
-
-
----
 
