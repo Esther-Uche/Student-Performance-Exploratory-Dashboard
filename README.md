@@ -121,11 +121,17 @@ This doesn't mean Music limits attendance but it's a strong correlation worth in
 
 ### 🛠 Technical Stack
 **Database**: MySQL
-**Language**: SQL (Joins, CTEs, Subqueries, Aggregate Functions)
+
+**Language**: SQL (Multi-level Joins, CTEs, Subqueries, Aggregate Functions across four disparate tables to find the intersection of sport participation and attendance)
+
 **Visualization**: Excel (Dashboarding)
-**Concepts Used**:  Data Aggregation: GROUP BY, AVG, SUM, COUNT.
+
+**Concepts Used**:  Data Aggregation: Leveraging ORDER BY, LIMIT, GROUP BY, AVG, SUM, COUNT to automate scholarship and remedial lists.
+
 **Connecting students**: scores, attendance, and extracurricular tables.
-**Advanced Filtering**: Subqueries for school-wide average comparisons and HAVING clauses for conditional logic.
+
+**Advanced Filtering**: Correlated Subqueries for identifying and comparing students scoring above dynamic school-wide average and HAVING clauses for conditional logic.
+
 
 
 ### 💡 Recommendations
