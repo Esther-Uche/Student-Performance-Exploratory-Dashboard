@@ -117,5 +117,19 @@ This is the most surprising finding. The youngest students — new to the school
 
 This doesn't mean Music limits attendance but it's a strong correlation worth investigating as to why Sports students have better attendance. Is it discipline? Does Music rehearsal scheduling conflict with morning classes? Does Music concert and sessions limit attendance?
 
+
+🛠 **Technical Stack**
+**Database**: MySQL
+
+**Language**: SQL (Joins, CTEs, Subqueries, Aggregate Functions)
+
+**Visualization**: Excel (Dashboarding)
+
+**Concepts Used**:  Data Aggregation: GROUP BY, AVG, SUM, COUNT.
+
+**Connecting students**: scores, attendance, and extracurricular tables.
+
+**Advanced Filtering**: Subqueries for school-wide average comparisons and HAVING clauses for conditional logic.
+
 ---
 
