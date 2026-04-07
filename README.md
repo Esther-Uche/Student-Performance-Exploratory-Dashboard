@@ -122,16 +122,23 @@ This doesn't mean Music limits attendance but it's a strong correlation worth in
 
 ### 🛠 Technical Stack
 **Database**: MySQL
-
 **Language**: SQL (Joins, CTEs, Subqueries, Aggregate Functions)
-
 **Visualization**: Excel (Dashboarding)
-
 **Concepts Used**:  Data Aggregation: GROUP BY, AVG, SUM, COUNT.
-
 **Connecting students**: scores, attendance, and extracurricular tables.
-
 **Advanced Filtering**: Subqueries for school-wide average comparisons and HAVING clauses for conditional logic.
+
+
+### 💡 Recommendations
+Based on the data analysis:
+
+Attendance Bonus: Students in "Group C" show higher attendance; the school should examine their method of  study and introduce them in "Group A."
+
+Math Support: Grade 12 students showing a decline in Math scores relative to the school average should be given targeted weekend workshops and extra lessons.
+
+Balanced Lifestyle: The data suggests a relationship between sports participation and consistent attendance; increasing financial assistance for the gymnastic department may improve overall school presence.
+
+
 
 ---
 
