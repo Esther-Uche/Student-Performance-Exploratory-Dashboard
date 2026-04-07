@@ -12,12 +12,11 @@
 
 As humans, we have different belief and assumptions. However, What if everything we assume about student performance is wrong?
 
-Most people tend to believe that **English is easier to ace** than Mathematics due to it many complex calculations and formulas. We often assume **older students (Grade 12) are more disciplined and academically smart** with school works and attendance but we rarely question if **extracurricular activities help or hurt** academic outcomes.
+Educational institutions often struggle to bridge the gap between student attendance and academic outcomes. Most people tend to believe that **English is easier to ace** than Mathematics due to it many complex calculations and formulas. We often assume **older students (Grade 12) are more disciplined and academically smart** with school works and attendance but we rarely question if **extracurricular activities help or hurt** academic outcomes.
 
 This **Student Performance Exploratory Project** provides a comprehensive SQL-driven analytics of academic performance, attendance patterns, and extracurricular participation at Tofunmi Senku Academy.  By leveraging SQL for complex data extraction and visualization tools for insight discovery, this project demonstrates advanced SQL capabilities from basic aggregations to complex subqueries to uncover actionable insights for school administrators, teachers, and policymakers.
 
 Using a database of **250 students** across Grades 9–12,This SQL project tested assumptions and the outcoming were overwhelming. I analyzed **academic scores, attendance patterns, and extracurricular participation** to uncover what really drives student success. The findings challenge common beliefs and provide actionable recommendations for school administrators.
-
 
 
 ---
