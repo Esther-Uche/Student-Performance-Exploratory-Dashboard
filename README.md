@@ -2,8 +2,6 @@
 
 
 
-## **SQL Data Analysis Project by Uchechi Esther Nwaoha**
-
 ![Student Analysis Dashboard](./Student_Analysis_Dashboard.png)
 
 ---
@@ -27,7 +25,7 @@ Using a database of **250 students** across Grades 9–12,This SQL project teste
 - **Identify At-Risk Groups:** Carefully select grade levels and study groups with attendance challange and provide timely assistance.
 - **Acknowledging Excellence:** Recognize top performing students across all subjects and make them placeable for scholarships and awards
 - **Backup Tactics:** Establish data-backed advice for attendance improvement, intervention and awards.
-- **Extracurricular Influence:** Understand and explain how activities like Sports and Music can affect academic outcomes.
+- **Extracurricular Influence:** Understand and explain how activities like Sports and Music can influence academic outcomes.
 
 
 ---
@@ -73,29 +71,30 @@ Targeted Intervention: Isolated "Grade 12" and specific study groups that fell b
 
 ---
 
-### 2. 🎓 Grade 12 Has the Lowest Attendance — The Senior Slump
+### 2. 🎓 Grade 12 Has the Lowest Attendance — The Senior Flop
 
 | Grade Level | Average Attendance |
 |-------------|--------------------|
-| Grade 10 | 81% |
+| Grade 10 | 79% |
 | Grade 11 | 80% |
 | Grade 12 | **78%** |
-| Grade 9 | 70% |
+| Grade 9 | 82% |
 
-> **Expectation:** A large audience of people believe that people in higher grade are academically smarter than the lower grade and as such, expect a higher attendance but this data says otherwise.
-> **The data says:** Grade 12 has the **lowest attendance** among non-freshman grades (79%).
+> **Expectation:** A large audience of people believe that people in higher grade are academically smarter than the lower grade due to exposure and as such, expect more like a higher attendance but this data says otherwise.
+> **The data says:** Grade 12 has the **lowest attendance** among non-freshman grades (78%) which is so appealing beacuse the lower grade who are new to the school are showing up more consistently than their senior peers.
 
-**Reasons?** School project? Work? Job interviews? College applications pulling focus? All of these does'nt give *reasons* — but assumptions which raises critical question for school leadership: *What's happening to our seniors?*
+**Reasons for Grade 12 Slump?** School project? Work? Job interviews? College applications pulling focus? All of these does'nt give *reasons*— but assumptions which raises critical question for school leadership: *What's happening to our seniors?*.
 
----
+**Reasons for Grade 9 attendance incease:**
+-Stronger homeroom mentorship
+- Parents more involved with younger students
+- Less absenteeism due to part-time jobs or external commitments
+----
 
-### 3. 🧒 Grade 9 Defies Expectations — Highest Attendance of All
+## 3. Applaudable Impact:
+Although the higher grade (grade 12) has the least number of attendance, its average score is commendable as it possesss the highest average score with grade 9 being the least.
 
-| Grade Level | Average Attendance |
-|-------------|--------------------|
-| **Grade 9** | **70%** (but wait — read the note below) |
-
-> **Correction from the data:** Grade 9 actually has **higher attendance than all other grades** when examined properly.
+ **Reasons?** The higher grade might be bsy with school project, work or seminar workshop that makes them rarely available while the lower grade (Grade 9) might still be settling in, not famiiar with the school academeic syllabus, adjusting to the new environment and teaching method, stress, leading to slump in their average score.
 
 This is the most surprising finding. The youngest students — new to the school, still adjusting — are showing up more consistently than their older peers. **Why?** Possible explanations:
 - Stronger homeroom mentorship
@@ -106,17 +105,27 @@ This is the most surprising finding. The youngest students — new to the school
 
 ---
 
-### 4. ⚽ Sports vs. Music: Attendance Gap
+## 4. The "Extracurricular Stability" (Radar Chart)
+The Attendance % by Extracurricular radar chart is very telling:
 
-| Extracurricular Activity | Average Attendance |
-|--------------------------|--------------------|
-| **Sports** | **81%** |
-| Plot Area | 80% |
-| **Music** | **70%** |
+The shape is nearly a perfect diamond, meaning attendance is consistent across Art, Music, and Sports.
 
-> **Insight:** Students in Sports attend 11% more often than students in Music.
+Observation: Students involved in "None" (no activities) don't seem to have significantly lower attendance than those in Sports.
 
-This doesn't mean Music limits attendance but it's a strong correlation worth investigating as to why Sports students have better attendance. Is it discipline? Does Music rehearsal scheduling conflict with morning classes? Does Music concert and sessions limit attendance?
+The Problem: Usually, you'd expect "Sports" students to have higher attendance due to eligibility requirements.
+
+The Fix: Highlight that "Extracurricular involvement at Tofunmi Senku Academy is a lifestyle, not just a requirement," as it maintains a high baseline across the board.
+----
+
+## 5. Gender Neutrality
+The Avg. Attendance by Gender pie chart is a perfect 50/50 split.
+
+The Scores by Gender bar chart shows that Females slightly outperform Males in English (the gray bar), while Males are slightly higher in Math.
+
+Observation: The school has achieved excellent gender parity in terms of population and general attendance.
+---
+## 6.Attendance Baseline:
+The school-wide attendance average sits at 80.16%, providing a stable foundation for academic delivery.
 
 
 ### 🛠 Technical Stack
