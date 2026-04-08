@@ -60,14 +60,6 @@ The analysis is built on a relational database with four tables:
 
 This objects our thought on subject difficulty and raises concern regarding teaching method and student's assimilation. Are our teaching methods in English less effective? Is English more difficult to assimilate? Or are students simply more confident in Math? Either way, this is a conversation starter for the academic board.
 
- and isolated top performers for scholarship consideration.
-
-Attendance Correlation: Analyzed how study group discipline and extracurricular involvement (Sports, Art, Music) impact attendance rates.
-
-Gender Performance Gap: Conducted a comparative analysis of scores across genders to ensure equity in academic support.
-
-Targeted Intervention: Isolated "Grade 12" and specific study groups that fell below the school-wide attendance average for administrative review.
-
 
 ---
 
@@ -114,15 +106,16 @@ Observation: Students involved in "None" (no activities) don't seem to have sign
 
 The Problem: Usually, you'd expect "Sports" students to have higher attendance due to eligibility requirements.
 
-The Fix: Highlight that "Extracurricular involvement at Tofunmi Senku Academy is a lifestyle, not just a requirement," as it maintains a high baseline across the board.
+The Fix: Highlight that "Extracurricular involvement at Tofunmi Senku Academy is a lifestyle not a mere requirement", as it maintains a high baseline across the board
 ----
 
 ## 5. Gender Neutrality
 The Avg. Attendance by Gender pie chart is a perfect 50/50 split.
 
-The Scores by Gender bar chart shows that Females slightly outperform Males in English (the gray bar), while Males are slightly higher in Math.
+The Scores by Gender bar chart shows that Females slightly outperform Males in English (the gray bar), while Males are slightly higher in Math. 
 
-Observation: The school has achieved excellent gender parity in terms of population and general attendance.
+Observation: The school has achieved excellent grade parity in terms of population and general attendance.
+
 ---
 ## 6.Attendance Baseline:
 The school-wide attendance average sits at 80.16%, providing a stable foundation for academic delivery.
