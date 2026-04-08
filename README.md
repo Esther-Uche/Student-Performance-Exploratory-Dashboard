@@ -115,7 +115,8 @@ Observation: The school has achieved excellent grade parity in terms of populati
 ## 6.Attendance Baseline:
 The school-wide attendance average sits at 80.16%, providing a stable foundation for academic delivery.
 
-----
+
+---
 ### 🛠 Technical Stack
 **Database**: MySQL
 
@@ -129,7 +130,8 @@ The school-wide attendance average sits at 80.16%, providing a stable foundation
 
 **Advanced Filtering**: Correlated Subqueries for identifying and comparing students scoring above dynamic school-wide average and HAVING clauses for conditional logic.
 
-----
+
+---
 ### 💡 Recommendations
 Based on the data analysis:
 
