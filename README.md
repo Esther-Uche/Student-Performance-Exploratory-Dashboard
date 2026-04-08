@@ -106,7 +106,9 @@ Observation: Students involved in "None" (no activities) don't seem to have sign
 
 The Problem: Usually, you'd expect "Sports" students to have higher attendance due to eligibility requirements.
 
-The Fix: Highlight that "Extracurricular involvement at Tofunmi Senku Academy is a lifestyle not a mere requirement", as it maintains a high baseline across the board
+The fix:
+
+The Fix: Highlight that Extracurricular involvement at Tofunmi Senku Academy is a lifestyle not a mere requirement, as it maintains a high baseline across the board
 ----
 
 ## 5. Gender Neutrality
