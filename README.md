@@ -2,7 +2,7 @@
 
 
 
-![Student Analysis Dashboard](./Student_Analysis_Dashboard.png)
+![Student Analysis Dashboard](Student-Analysis-Dashboard.png)
 
 ---
 
