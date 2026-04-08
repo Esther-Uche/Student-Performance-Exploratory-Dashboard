@@ -80,17 +80,12 @@ This objects our thought on subject difficulty and raises concern regarding teac
 - Parents more involved with younger students
 - Less absenteeism due to part-time jobs or external commitments
 
+- **Recommendation:** Interview Grade 9 students and teachers to extract best practices that can be applied to Grade 12.
+
 ## 3. Applaudable Impact:
 Although the higher grade (grade 12) has the least number of attendance, its average score is commendable as it possesss the highest average score with grade 9 being the least.
 
  **Reasons?** The higher grade might be bsy with school project, work or seminar workshop that makes them rarely available while the lower grade (Grade 9) might still be settling in, not famiiar with the school academeic syllabus, adjusting to the new environment and teaching method, stress, leading to slump in their average score.
-
-This is the most surprising finding. The youngest students — new to the school, still adjusting — are showing up more consistently than their older peers. **Why?** Possible explanations:
-- Stronger homeroom mentorship
-- Parents more involved with younger students
-- Less absenteeism due to part-time jobs or external commitments
-
-**Recommendation:** Interview Grade 9 students and teachers to extract best practices that can be applied to Grade 12.
 
 
 ## 4. The "Extracurricular Stability" (Radar Chart)
@@ -135,9 +130,15 @@ The school-wide attendance average sits at 80.16%, providing a stable foundation
 ### 💡 Recommendations
 Based on the data analysis:
 
-Attendance Bonus: Students in "Group C" show higher attendance; the school should examine their method of  study and introduce them in "Group A". Also, since students with >90% attendance controls the high-score category, introduce a system that rewards individuals with perfect attendance.
+- Attendance Bonus: Students in "Group C" show higher attendance; the school should examine their method of  study and introduce them in "Group A". Also, since students with >90% attendance controls the high-score category, introduce a system that rewards individuals with perfect attendance.
 
-Math Support and Grade 12 aid : From the data, it's evident that Grade 12 students are lagging in the school's average attendance thus, solutions should be provided for those showing a decline in Math scores like targeted weekend workshops, extra lessons or a dedicated counselor.
+- Math Support and Grade 12 aid : From the data, it's evident that Grade 12 students are lagging in the school's average attendance thus, solutions should be provided for those showing a decline in Math scores like targeted weekend workshops, extra lessons or a dedicated counselor.
 
-Balanced Lifestyle: The data suggests a relationship between sports participation and consistent attendance; increasing financial assistance for the gymnastic department may improve overall school presence.
+- Balanced Lifestyle: The data suggests a relationship between sports participation and consistent attendance; increasing financial assistance for the gymnastic department may improve overall school presence.
+
+
+---
+## Conclusion
+The analysis proves that Tofunmi Senku Academy is academically stable but requires targeted behavioral interventions to optimize senior-year performance. It demonstrates the power of Relational Database Management on notmonly reporting past performance but to actively diagnose institutional risks and prescribe strategic growth. The result of this framework ensures that Tofunmi Senku Academy is no longer just "collecting data," but is actively governed by actionable intelligence.
+
 
