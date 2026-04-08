@@ -61,8 +61,6 @@ The analysis is built on a relational database with four tables:
 This objects our thought on subject difficulty and raises concern regarding teaching method and student's assimilation. Are our teaching methods in English less effective? Is English more difficult to assimilate? Or are students simply more confident in Math? Either way, this is a conversation starter for the academic board.
 
 
----
-
 ### 2. 🎓 Grade 12 Has the Lowest Attendance — The Senior Flop
 
 | Grade Level | Average Attendance |
@@ -81,7 +79,6 @@ This objects our thought on subject difficulty and raises concern regarding teac
 -Stronger homeroom mentorship
 - Parents more involved with younger students
 - Less absenteeism due to part-time jobs or external commitments
-----
 
 ## 3. Applaudable Impact:
 Although the higher grade (grade 12) has the least number of attendance, its average score is commendable as it possesss the highest average score with grade 9 being the least.
@@ -95,7 +92,6 @@ This is the most surprising finding. The youngest students — new to the school
 
 **Recommendation:** Interview Grade 9 students and teachers to extract best practices that can be applied to Grade 12.
 
----
 
 ## 4. The "Extracurricular Stability" (Radar Chart)
 The Attendance % by Extracurricular radar chart is very telling:
@@ -106,9 +102,7 @@ Observation: Students involved in "None" (no activities) don't seem to have sign
 
 The Problem: Usually, you'd expect "Sports" students to have higher attendance due to eligibility requirements.
 
-The Fix: Ensure that extracurricular involvement at Tofunmi Senku Academy is a lifestyle not a mere requirement as it maintains a high baseline across the board.
-
----
+The Fix: Ensure that extracurricular involvement at Tofunmi Senku Academy is a lifestyle not a mere requirement as it maintains a high baseline across the board
 
 ## 5. Gender Neutrality
 The Avg. Attendance by Gender pie chart is a perfect 50/50 split.
@@ -117,11 +111,11 @@ The Scores by Gender bar chart shows that Females slightly outperform Males in E
 
 Observation: The school has achieved excellent grade parity in terms of population and general attendance.
 
----
+
 ## 6.Attendance Baseline:
 The school-wide attendance average sits at 80.16%, providing a stable foundation for academic delivery.
 
-
+----
 ### 🛠 Technical Stack
 **Database**: MySQL
 
@@ -135,8 +129,7 @@ The school-wide attendance average sits at 80.16%, providing a stable foundation
 
 **Advanced Filtering**: Correlated Subqueries for identifying and comparing students scoring above dynamic school-wide average and HAVING clauses for conditional logic.
 
-
-
+----
 ### 💡 Recommendations
 Based on the data analysis:
 
